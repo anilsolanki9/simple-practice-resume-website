@@ -8,7 +8,7 @@ body {
     height: 100%;
     width: 100%;
     font-family: monserrat;
-    background-color: rgb(250, 250, 255);
+    background-color: rgb(238, 238, 247);
 }
 
 /* custom font */
@@ -72,7 +72,7 @@ p {
 }
 
 .education {
-    background-color: rgba(171, 237, 255, 0.263);
+    background-color: rgba(171, 216, 255, 0.589);
 }
 
 .edrow,
@@ -81,7 +81,7 @@ p {
 }
 
 .skills {
-    background-color: rgba(255, 243, 194, 0.66);
+    background-color: rgba(255, 241, 185, 0.854);
 }
 .skills h2 {
     font-weight: 700;
@@ -93,11 +93,11 @@ p {
 }
 
 .projects {
-    background-color: rgba(207, 180, 227, 0.432);
+    background-color: rgba(197, 139, 255, 0.733);
 }
 
 .contact {
-    background-color: rgba(197, 245, 197, 0.902);
+    background-color: rgba(179, 255, 179, 0.902);
 }
 
 .crow {
